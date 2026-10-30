@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kyogoku-miyasundokoro",
  "yomi": "きょうごくのみやすんどころうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "延喜21年（921）",
+  "author": "主催 京極御息所（藤原褒子）",
+  "desc": "宇多法皇と京極御息所の春日社参詣の際、大和守藤原忠房が献じた20首に、供の人々が詠んだ返歌を左右に番えた歌合。返歌を番える形の珍しい歌合である。"
+ },
  "editions": [
   {
    "pid": "1128193",
